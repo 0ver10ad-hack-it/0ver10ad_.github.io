@@ -7,7 +7,9 @@ layout: default
 
 * * *
 
-_Je n'ai pas encore de diplômes ou de certifications._
+# Mes Dîplomes et certificats :
+
+1. Dîplome National du Brevet
 
 * * *
 
