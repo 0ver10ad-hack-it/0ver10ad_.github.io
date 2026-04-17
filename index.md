@@ -9,7 +9,8 @@ layout: default
 
 # Mes Dîplomes et certificats :
 
-1. Dîplome National du Brevet
+1. Dîplome National du Brevet - Mention Bien
+2. Certificat de réussite "Stage Hacker Éthique & Cybersécurité" de Guardia Cybersecurity School
 
 * * *
 
@@ -17,6 +18,7 @@ layout: default
 > 
 > *   [RootMe](https://www.root-me.org/0ver10ad_?inc=info&lang=fr).
 > *   [GitHub](https://github.com/0ver10ad-hack-it).
+> *   [TryHackMe](https://tryhackme.com/p/0ver10ad).
 
 * * *
 
